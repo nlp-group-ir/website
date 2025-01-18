@@ -6,5 +6,7 @@ description: The weekly class schedule.
 ---
 
 # Weekly Schedule
-
+a
 {{ site.schedules.llm_weekly }}
+b
+{{ site.schedules }}
