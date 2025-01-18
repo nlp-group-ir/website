@@ -44,3 +44,5 @@ schedule:
 # Weekly Schedule
 
 {{ site.schedules.weekly }}
+
+{{ site.schedules }}
