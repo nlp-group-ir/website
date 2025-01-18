@@ -40,3 +40,7 @@ schedule:
   - name: Tuesday
   - name: Wednesday
 ---
+
+# Weekly Schedule
+
+{{ site.schedules.weekly }}
