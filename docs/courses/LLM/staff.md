@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Staff
+parent: Large Language Models
 description: A listing of all the course staff members.
 ---
 
