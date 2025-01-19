@@ -3,6 +3,6 @@ name: Mohammad Javad Dousti
 role: Instructor
 email: abc@ut.ac.ir
 website: https://www.mjdousti.com/
-photo: assets/images/avatar.png
+photo: avatar.png
 ---
 
