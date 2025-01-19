@@ -41,7 +41,6 @@ collections:
   modules:
   schedules:
   announcements:
-  reading_videos:
 # Default layouts for each collection type
 defaults:
   - scope:
