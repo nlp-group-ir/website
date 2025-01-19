@@ -12,8 +12,8 @@ nav_order: 1
 University of Tehran, Spring 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-[Elearn](https://elearn.ut.ac.ir){:target="\_blank" .btn .btn-ed .mr-1 }
-[Lectures Playlist](https://ece.ut.ac.ir){:target="\_blank" .btn .btn-ed .mr-1 }
+[Elearn](https://elearn.ut.ac.ir){:target="\_blank" .btn .btn-elearn .mr-1 }
+[Lectures Playlist](https://ece.ut.ac.ir){:target="\_blank" .btn .btn-aparat .mr-1 }
 
 
 > Lectures will be webcast at: [https://www.aparat.com/nlp_group/live](https://www.aparat.com/nlp_group/live){:target="\_blank"}.

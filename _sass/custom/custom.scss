@@ -69,3 +69,23 @@ summary {
   background-color: #3D348B;
   color: white;
 }
+
+.btn-elearn {
+  @include btn-color($white, #FF8C00);
+}
+
+.btn-aparat {
+  @include btn-color($white, #9400D3);
+}
+
+.btn-gradescope {
+  @include btn-color($white, #228B22);
+}
+
+.btn-youtube {
+  @include btn-color($white, #FF0000);
+}
+
+.btn-oh {
+  @include btn-color($white, #ff1493);
+}
