@@ -70,6 +70,7 @@ summary {
   color: white;
 }
 
+
 .btn-elearn {
   @include btn-color($white, #FF8C00);
 }
@@ -88,4 +89,12 @@ summary {
 
 .btn-oh {
   @include btn-color($white, #ff1493);
+}
+
+blockquote.important a {
+  color: #183385; //!important;
+}
+
+blockquote.note a {
+  color: #381885;
 }
