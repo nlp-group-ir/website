@@ -2,7 +2,7 @@
 title: Session 14
 ---
 
-**Presenter**{: .label .label-blue } **Sepehr Kamahi**
+**Presenter**{: .label .label-blue } Sepehr Kamahi
 
 **Paper**{: .label .label-green } J. Qi, G. Sarti, R. Fernández, and A. Bisazza, "[Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation](https://arxiv.org/abs/2406.13663).", EMNLP 2024.
 
