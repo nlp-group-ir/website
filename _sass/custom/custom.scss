@@ -49,3 +49,23 @@ summary {
     }
   }
 }
+
+.team {
+  font-weight: bold !important;
+  display: inline-block;
+  padding-top: 0.16em;
+  padding-bottom: 0.16em;
+  padding-left: 0.56em;
+  padding-right: 0.56em;
+
+  font-size: 0.8em;
+
+  vertical-align: middle;
+  border-radius: 6px;
+
+}
+
+.label-Head {
+  background-color: #3D348B;
+  color: white;
+}
