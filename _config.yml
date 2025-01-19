@@ -32,7 +32,7 @@ permalink: pretty
 footer_content:
   Copyright (C) University of Tehran
 
-#logo: "/assets/images/University_of_Tehran_logo.svg"
+logo: "/assets/images/nlp_group_logo.svg"
 favicon_ico: "/assets/images/favicon.ico"
 
 # Collections for website data
