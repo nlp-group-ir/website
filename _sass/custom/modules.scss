@@ -1,5 +1,5 @@
-.main-content .reading_video,
-.reading_video {
+.main-content .module,
+.module {
   @extend %card;
 
   h1,
@@ -32,7 +32,7 @@
       grid-template-columns: 1fr 7fr;
     }
 
-    %reading_video-item {
+    %module-item {
       margin: 0;
       padding: $sp-2;
 
@@ -42,7 +42,7 @@
     }
 
     >dt {
-      @extend %reading_video-item;
+      @extend %module-item;
       border-top: $border $border-color;
       font-weight: normal;
       text-align: right;
@@ -65,7 +65,7 @@
     }
 
     >dd {
-      @extend %reading_video-item;
+      @extend %module-item;
 
       +dd {
         padding-top: 0;
