@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Session 13
 ---
 
 Sep 28
@@ -21,3 +21,6 @@ Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
+
+
+<div id="83201050055"><script type="text/JavaScript" src="https://www.aparat.com/embed/ciui3dm?data[rnddiv]=83201050055&data[responsive]=yes&titleShow=true"></script></div>
