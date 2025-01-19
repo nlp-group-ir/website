@@ -1,10 +1,8 @@
 ---
-name: Kevin Lin
+name: Yadollah Yaghoobzadeh
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
-meta:
+email: y.MY_LAST_NAME@ut.ac.ir
+website: https://yyaghoobzadeh.github.io/
   Office Hours: Somewhere on the internet
 ---
 
